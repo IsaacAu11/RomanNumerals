@@ -1,0 +1,13 @@
+C:\Users\Sleepy\Documents\C# Repository\_ActualProjects\RomanNumerals\RomanNumerals\bin\Debug\netcoreapp3.1\RomanNumerals.exe
+C:\Users\Sleepy\Documents\C# Repository\_ActualProjects\RomanNumerals\RomanNumerals\bin\Debug\netcoreapp3.1\RomanNumerals.deps.json
+C:\Users\Sleepy\Documents\C# Repository\_ActualProjects\RomanNumerals\RomanNumerals\bin\Debug\netcoreapp3.1\RomanNumerals.runtimeconfig.json
+C:\Users\Sleepy\Documents\C# Repository\_ActualProjects\RomanNumerals\RomanNumerals\bin\Debug\netcoreapp3.1\RomanNumerals.runtimeconfig.dev.json
+C:\Users\Sleepy\Documents\C# Repository\_ActualProjects\RomanNumerals\RomanNumerals\bin\Debug\netcoreapp3.1\RomanNumerals.dll
+C:\Users\Sleepy\Documents\C# Repository\_ActualProjects\RomanNumerals\RomanNumerals\bin\Debug\netcoreapp3.1\RomanNumerals.pdb
+C:\Users\Sleepy\Documents\C# Repository\_ActualProjects\RomanNumerals\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.csprojAssemblyReference.cache
+C:\Users\Sleepy\Documents\C# Repository\_ActualProjects\RomanNumerals\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.AssemblyInfoInputs.cache
+C:\Users\Sleepy\Documents\C# Repository\_ActualProjects\RomanNumerals\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.AssemblyInfo.cs
+C:\Users\Sleepy\Documents\C# Repository\_ActualProjects\RomanNumerals\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.csproj.CoreCompileInputs.cache
+C:\Users\Sleepy\Documents\C# Repository\_ActualProjects\RomanNumerals\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.dll
+C:\Users\Sleepy\Documents\C# Repository\_ActualProjects\RomanNumerals\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.pdb
+C:\Users\Sleepy\Documents\C# Repository\_ActualProjects\RomanNumerals\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.genruntimeconfig.cache
